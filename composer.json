@@ -1,0 +1,17 @@
+{
+    "name": "romain/portfolio",
+    "authors": [
+        {
+            "name": "romain TRAUCHESSEC",
+            "email": "romain.trauchessec@ynov.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Romain\\": "private"
+        }
+    },
+    "require": {
+        "swiftmailer/swiftmailer": "^6.2"
+    }
+}
